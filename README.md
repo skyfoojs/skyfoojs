@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages</h3>
+<h3 align="left"></> Languages</h3>
 
 ###
 
@@ -49,7 +49,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
@@ -61,6 +61,18 @@
 </div>
 
 ###
+
+
+<h3 align="left">🛠 Databases</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="mongo logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+</div>
 
 <h3 align="left">💡 Others</h3>
 
