@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left"></> Languages</h3>
+<h3 align="left">🛠 Languages</h3>
 
 ###
 
@@ -63,7 +63,7 @@
 ###
 
 
-<h3 align="left">🛠 Databases</h3>
+<h3 align="left">⚙️ Databases</h3>
 
 ###
 
