@@ -71,7 +71,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="mongo logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo"  />
   <img width="12" />
 </div>
 
@@ -82,11 +82,11 @@
 <div align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij logo"  />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-FD4A02?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="androidstudio logo"  />
   <img width="12" />
@@ -94,7 +94,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker logo"  />
 </div>
