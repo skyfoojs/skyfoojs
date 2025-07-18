@@ -78,15 +78,6 @@
 <h3 align="left">💡 Others</h3>
 
 ###
-![Git]()
-![GitHub]()
-![VS Code]()
-![IntelliJ IDEA]()
-![Android Studio]()
-![Figma]()
-![npm]()
-![Docker]()
-![Postman]()
 
 <div align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git logo"  />
