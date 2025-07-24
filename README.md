@@ -8,8 +8,10 @@
 
 <p align="left">- I'm from Malaysia <br>- 📚 Currently Studying Diploma in Information Technology Student at Sunway College<br>-  📩 skyfoojs@gmail.com</p>
 
-###
+---
 
+###
+### 📫 Reach Out me from:
 <div align="left">
   <a href="https://www.linkedin.com/in/foo-jia-seng-1629112b6/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -21,6 +23,24 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
+
+---
+
+### 💼 Career Experience
+#### 🧑‍💻 Node.js Backend Web Developer Intern
+_Continental Tyre (PJ) Malaysia Sdn. Bhd. — April 2025 – July 2025_
+
+- Design & Implement RESTful API for internal **Desk Booking System** using Node.js, Express, and TypeScript
+- Working with **MongoDB** and **Mongoose** with efficient schema modeling and indexing
+- Worked closely with frontend developer to seamlessly integrate backend APIs into the UI
+- Containerized applications using Docker for consistent development and deployment environments
+- Committed to writing clean, and maintainable code following best practices and design patterns 
+- Implemented advanced features such as:
+  - 🕒 Auto-release logic to free unused desks after a timeout with **CronJob** 
+  - 📅 Recurring bookings and date code validation with timezone support
+  - 🔐 JWT-based authentication and authorization for secure API access
+  - ☁️ File uploads and storage using Azure Blob Storage for related images
+---
 
 ###
 
