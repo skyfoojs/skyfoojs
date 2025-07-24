@@ -98,6 +98,8 @@ _Continental Tyre (PJ) Malaysia Sdn. Bhd. — April 2025 – July 2025_
 
 ###
 
+---
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
