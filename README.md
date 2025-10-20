@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- I'm from Malaysia <br>- 📚 Currently Studying Diploma in Information Technology Student at Sunway College<br>-  📩 skyfoojs@gmail.com</p>
+<p align="left">- I'm from Malaysia <br>- 📚 Currently Studying Bachelors in Software Engineering at Sunway University<br>-  📩 skyfoojs@gmail.com</p>
 
 ---
 
